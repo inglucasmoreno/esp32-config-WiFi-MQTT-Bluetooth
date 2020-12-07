@@ -1,5 +1,5 @@
 /*
-  Configuración de conexion WiFi via Bluetooth
+  Configuración de conexion WiFi y MQTT via Bluetooth
   Autor: Ing. Moreno Lucas Omar  
   Año: 2020
  */
